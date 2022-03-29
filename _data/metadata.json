@@ -1,10 +1,10 @@
 {
-  "title": "Cy",
+  "title": "Cy","Morgan"
   "url": "https://iastate.edu/",
   "language": "en",
-  "description": "Cy is a mascot",
+  "description": "Cy is a mascot","Student at Iowa State University"
   "feed": {
-    "subtitle": "Cy is a mascot",
+    "subtitle": "Cy is a mascot", "Senior majoring in Advertising" 
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://iastate.edu/"
@@ -14,9 +14,9 @@
     "url": "https://iastate.edu/feed/feed.json"
   },
   "author": {
-    "name": "Cy",
-    "email": "cy@iastate.edu",
+    "name": "Cy","Morgan Maher"
+    "email": "cy@iastate.edu","memaher@iastate.edu"
     "url": "https://iastate.edu/about-me/",
-    "twitter": "iastate"
+    "twitter": "iastate" "morgan_maher"
   }
 }
