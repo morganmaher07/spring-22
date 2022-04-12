@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
+title: Resume 
+description: Morgan Maher's education and work experience 
 date: 2018-05-01
 tags:
   - another tag
