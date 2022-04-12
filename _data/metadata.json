@@ -1,10 +1,10 @@
 {
-  "title": "Morgan Maher",
+  "title": Morgan Maher
   "url": "https://iastate.edu/",
   "language": "en",
-  "description": "Morgan is a student at Iowa State University",
+  "description": Morgan is a student at Iowa State University
   "feed": {
-    "subtitle": "Studying advertising and event managment",
+    "subtitle": Studying advertising and event managment
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://iastate.edu/"
@@ -14,9 +14,9 @@
     "url": "https://iastate.edu/feed/feed.json"
   },
   "author": {
-    "name": "Morgan Maher",
-    "email": "memaher@iastate.edu",
+    "name": Morgan Maher
+    "email": memaher@iastate.edu
     "url": "https://iastate.edu/about-me/",
-    "twitter": "morgan_maher",
+    "twitter": morgan_maher
   }
 }
