@@ -1,6 +1,6 @@
 ---
-title: This is my second post.
-description: This is a post on My Blog about leveraging agile frameworks.
+title: About Me.
+description: Morgan Maher is a 21 year old college student.
 date: 2018-07-04
 tags:
   - number 2
