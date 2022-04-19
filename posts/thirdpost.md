@@ -1,6 +1,6 @@
 ---
-title: "Morgan's Portfolio.",
-description: "Prior creative and written work.",
+title: "Morgan's Portfolio",
+description: "Prior creative and written work",
 date: 2018-08-24
 tags:
   - second tag
