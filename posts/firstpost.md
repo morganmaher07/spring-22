@@ -1,11 +1,13 @@
 ---
 title: Resume 
 description: Morgan Maher's education and work experience 
-date: 2018-05-01
+date: 2022-05-05
 tags:
   - another tag
 layout: layouts/post.njk
 ---
+I have had experience in many different atmospheres that have helped shape me into the employee I am today. I started my working career as a food service employee at the Altoona Aquatics Center. Next, I moved to a beverage cart attendant at a local golf course and even prepared smoothies at Tropical Smoothie. These jobs taught me the importance of relationships, customer service and teamwork. Later on, I worked as a testing proctor for Iowa State University and then as a receptionist. Both experiences challenged my organizational skills and accountability. Today, as an account service intern, I am proud to be known as a hard worker who forms strong relationships, works well in teams, is trustworthy, and always has a positive attitude. 
+
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
