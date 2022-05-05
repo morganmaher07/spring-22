@@ -1,14 +1,15 @@
 ---
 title: About Me.
 description: Morgan Maher is a 21 year old college student.
-date: 2018-07-04
+date: 2022-05-05
 tags:
   - number 2
 layout: layouts/post.njk
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-## Section Header
+## Who am I?
+My name is Morgan Maher, and I am a student at Iowa State University. I am majoring in advertising and minoring in event management. During my time at Iowa State, I have been involved in my sorority, Delta Zeta. Additionally, I interned at Flynn Wright during the Summer of 2021. Once I graduate in May, I will be working full-time as a project coordinator at Flynn Wright. Aside from school, I enjoy playing with animals, spending time with my friends and listening to podcasts. I am from a small town in Iowa called Altoona and hope to relocate to downtown Des Moines.  
 
 <a href="{{ '/posts/firstpost/' | url }}">First post</a>
 <a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
